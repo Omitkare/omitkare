@@ -9,13 +9,13 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Graduated B.Tech student in Electronics & Telecommunication  
+- 🎓 B.Tech student in Electronics & Telecommunication ( Graduated 2025 )
 - 👨‍💻 Passionate about Python, Machine Learning, and Data Science  
 - 📊 Exploring real-world problems using NumPy, Pandas, and Power BI  
 - 🚀 Currently building a portfolio using FastAPI and Python backend  
 - 🌱 Learning: SQL | Power BI | Data Visualization  
 - 💬 Ask me about: Python, ML, EDA, FastAPI  
-- 📬 Reach me on: [LinkedIn](https://www.linkedin.com/in/omajay-itkare/)  
+- 📬 Reach me on: [LinkedIn](https://www.linkedin.com/in/omajay-itkare/)
 - 🧠 Goal: Earn ₹5L/month in 5 years through tech + freelancing + business
 
 ---
