@@ -16,7 +16,7 @@
 - 🌱 Learning: SQL | Power BI | Data Visualization  
 - 💬 Ask me about: Python, ML, EDA, FastAPI  
 - 📬 Reach me on: [LinkedIn](https://www.linkedin.com/in/omajay-itkare/)
-- 🧠 Goal: Earn ₹5L/month in 5 years through tech + freelancing + business
+
 
 ---
 
