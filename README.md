@@ -54,14 +54,6 @@
 
 ---
 
-## 🔥 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omitkare&theme=react-dark&area=true&hide_border=true" />
-</p>
-
----
-
 ## 🔗 Let's Connect!
 
 <p align="left">
